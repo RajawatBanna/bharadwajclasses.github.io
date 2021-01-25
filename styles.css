@@ -212,3 +212,21 @@
     background: #125688;
     color: white;
     }
+    .theme-select1{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: hsl(14, 90%, 54%);
+    }
+    .theme-select2{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: hsl(240, 90%, 54%);
+    }
+    .theme-select3{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: hsl(120, 90%, 54%);
+    }
